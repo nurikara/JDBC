@@ -22,7 +22,7 @@ public class Execute01 {
                     +" /"+veri.getString(3)
                     +"/ "+veri.getString(4)
                     );
-//
+
         }
         con.close();
          st.close();
